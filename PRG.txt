@@ -8,3 +8,14 @@
 8. nube - https://dle.rae.es/nube?m=form
 9. sombra - https://dle.rae.es/sombra?m=form
 10. océano - https://dle.rae.es/oc%C3%A9ano?m=form
+11. croqueta - https://dle.rae.es/croqueta?m=form
+12. robar - https://dle.rae.es/robar?m=form
+13. gol - https://dle.rae.es/gol?m=form
+14. edificación - https://dle.rae.es/edificaci%C3%B3n?m=form
+15. tortilla - https://dle.rae.es/tortilla?m=form
+16. mancuerna - https://dle.rae.es/mancuerna?m=form
+17. leon - https://dle.rae.es/le%C3%B3n?m=form
+18. labrador - https://dle.rae.es/labrador?m=form
+19. amarillo - https://dle.rae.es/amarillo?m=form
+20. hijo - https://dle.rae.es/hijo?m=form
+
